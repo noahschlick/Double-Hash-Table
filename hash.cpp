@@ -1,27 +1,10 @@
 //
 //  hash.cpp
-//  Project4_Hash
-//
-//  Created by Noah Schlickeisen on 4/22/21.
-//  CS 3358 Data Structures and Algorithms (Section 3358-256)
-//
-//
 //  This file test the hash table data structure.
 // It uses a random arrray to test insertion and
 // sorting. It also test to make sure the hash table
 // does not store duplicates.
 //
-
-//\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
-// IMPOTANT MESSAGE: When compiling the program on Texas State school
-// servers type in command//
-//
-//                  g++ Assign2_Q2.cpp -std=c++11
-//                  ./a.out
-//
-// This will run the orject on the latest version of C++ to make the program
-// effectively.
-//\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 
 #include <iostream>
 #include "hash.h"
